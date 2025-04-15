@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://www.loom.com/share/cfa0cc430c804fffb6ef37f2665ddbe8?sid=8090843b-0578-4adb-b515-d9f69b8bb80b
+
 
 ## App Brainstorming (Step 4)
  1. Waze
